@@ -34,9 +34,8 @@ user_api/
 ├── database.py        # MongoDB connection
 ├── models.py          # Pydantic models
 ├── routes/
-│   └── user_router.py # API endpoints
-├── requirements.txt
-└── README.md
+└──   └── user.py      # API endpoints
+
 ```
 
 ---
